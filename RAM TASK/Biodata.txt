@@ -1,0 +1,6 @@
+------ Biodata ------
+Recorded On: 18-08-2025 14:45:30
+Name: sabik
+Age: 28
+Date of Birth: 25-03-1997
+Designation: Data science

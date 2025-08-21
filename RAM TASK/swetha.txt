@@ -1,0 +1,6 @@
+------ Biodata ------
+Recorded On: 18-08-2025 15:12:11
+Name: swetha
+Age: 20
+Date of Birth: 20-05-2000
+Designation: web

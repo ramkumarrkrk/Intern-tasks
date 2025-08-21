@@ -1,0 +1,6 @@
+------ Biodata ------
+Recorded On: 18-08-2025 15:12:24
+Name: kumar
+Age: 20
+Date of Birth: 05-02-2005
+Designation: web
